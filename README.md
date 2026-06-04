@@ -49,6 +49,10 @@ plan in [`docs/build-brief-v3.md`](docs/build-brief-v3.md).
 3. The schema in [`supabase/migrations/`](supabase/migrations) and the control catalogues in
    [`lib/constants/regulations/`](lib/constants/regulations) are ready to apply and extend.
 
+To carry the build forward from where this skeleton stops, see
+[`docs/getting-started.md`](docs/getting-started.md) — it maps what's done, the local-dev
+setup, and the exact next steps (the auth + role-routing remainder of Phase B).
+
 ## Scope and data handling
 
 Everything here is for an **internal training program**. Scenarios use synthetic content only.

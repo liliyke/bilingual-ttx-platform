@@ -1,7 +1,10 @@
 # Documentation — v3 set
 
-The four documents that define the bilingual multi-framework TTX Platform. Read them in this
-order if you're new to the project:
+The documents that define the bilingual multi-framework TTX Platform.
+
+Resuming the build? Start with **[getting-started.md](getting-started.md)** — it maps what the
+skeleton already covers, the local-dev setup, and the exact next steps. The four reference
+documents below are the spec behind it. Read them in this order if you're new to the project:
 
 1. **[build-guide-v3.md](build-guide-v3.md)** — *Free-Tier Build Guide (v3)*
    End-to-end walkthrough for standing the platform up on $0/month infrastructure (Supabase +
