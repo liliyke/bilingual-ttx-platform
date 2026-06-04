@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Tabletop Exercise Platform",
+    "tagline": "Bilingual cybersecurity tabletop exercises with multi-framework mapping (OSFI B-13, Law 25, NIST CSF v2.0, PCI DSS v4.0, SOC 2).",
+    "rolesHeading": "Roles",
+    "statusHeading": "Project status",
+    "statusBody": "Starter skeleton (phases A and B.5). The database schema and the regulatory control catalogues are in place; the feature screens follow the eight-phase plan in the build brief."
+  },
+  "roles": {
+    "facilitator": {
+      "name": "Facilitator",
+      "purpose": "Runs the exercise, releases injects, controls timing"
+    },
+    "participant": {
+      "name": "Participant",
+      "purpose": "Receives injects in their locale, logs decisions"
+    },
+    "evaluator": {
+      "name": "Evaluator",
+      "purpose": "Read-only live access, scores decisions, records observations"
+    },
+    "compliance_reviewer": {
+      "name": "Compliance reviewer",
+      "purpose": "Validates multi-framework mapping accuracy on scenarios pending review"
+    },
+    "observer": {
+      "name": "Observer",
+      "purpose": "Read-only, no scoring rights"
+    },
+    "admin": {
+      "name": "Administrator",
+      "purpose": "Manages users, scenarios, exercise templates, and reviewer assignments"
+    }
+  },
+  "localeSwitcher": {
+    "label": "Choose language",
+    "fr-CA": "Français",
+    "en-CA": "English"
+  }
+}

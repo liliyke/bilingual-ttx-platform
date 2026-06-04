@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Plateforme d'exercices sur table",
+    "tagline": "Exercices de cybersécurité bilingues avec arrimage multicadre (OSFI B-13, Loi 25, NIST CSF v2.0, PCI DSS v4.0, SOC 2).",
+    "rolesHeading": "Rôles",
+    "statusHeading": "État du projet",
+    "statusBody": "Squelette de départ (phases A et B.5). Le schéma de base de données et les catalogues de contrôles réglementaires sont en place; les écrans de fonctionnalités suivent le plan en huit phases du devis de construction."
+  },
+  "roles": {
+    "facilitator": {
+      "name": "Animateur",
+      "purpose": "Anime l'exercice, diffuse les injections, gère le minutage"
+    },
+    "participant": {
+      "name": "Participant",
+      "purpose": "Reçoit les injections dans sa langue, consigne ses décisions"
+    },
+    "evaluator": {
+      "name": "Évaluateur",
+      "purpose": "Accès en lecture seule en direct, note les décisions, consigne ses observations"
+    },
+    "compliance_reviewer": {
+      "name": "Réviseur conformité",
+      "purpose": "Valide l'exactitude de l'arrimage multicadre des scénarios en attente de révision"
+    },
+    "observer": {
+      "name": "Observateur",
+      "purpose": "Lecture seule, sans droit de notation"
+    },
+    "admin": {
+      "name": "Administrateur",
+      "purpose": "Gère les utilisateurs, les scénarios, les gabarits d'exercice et l'affectation des réviseurs"
+    }
+  },
+  "localeSwitcher": {
+    "label": "Choisir la langue",
+    "fr-CA": "Français",
+    "en-CA": "English"
+  }
+}
