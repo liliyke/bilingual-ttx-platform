@@ -67,6 +67,13 @@ layers filled in. Subsequent phases (C–H) are described in the build brief.
 
 ## Licence
 
-Code is MIT (see [`LICENSE`](LICENSE)). The documents under `docs/` are reference templates —
-the "internal-use only" notices inside them are part of the realistic SOP framing, not a
-restriction on this repository.
+This repo is dual-licensed by content type:
+
+- **Code** — MIT, see [`LICENSE`](LICENSE). Covers the app skeleton, configs, the database
+  migration, and the framework constant files.
+- **Documentation** — Creative Commons Attribution 4.0 International (CC-BY-4.0), see
+  [`docs/LICENSE`](docs/LICENSE). Covers everything under [`docs/`](docs). Reuse the prose with
+  attribution.
+
+The "internal-use only" notices inside the documents are part of the realistic SOP framing, not
+a restriction on this repository.

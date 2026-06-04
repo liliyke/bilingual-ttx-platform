@@ -32,6 +32,11 @@ Cross-cutting: **MITRE ATT&CK** technique IDs on every inject.
 The control catalogues these documents reference live in code under
 [`../lib/constants/regulations/`](../lib/constants/regulations).
 
+## Licence
+
+Everything in this folder is licensed **CC-BY-4.0** (see [`LICENSE`](LICENSE)) — reuse with
+attribution. The code in the rest of the repo is MIT.
+
 ## A note on the "internal-use only" footers
 
 Each document ends with an internal-use notice. That language is part of the realistic SOP
